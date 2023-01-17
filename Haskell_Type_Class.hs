@@ -18,4 +18,3 @@ instance MyEq MyFloat where
 isEqual :: MyEq a => a -> a -> Bool
 isEqual x y = x == y
 
-/
